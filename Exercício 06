@@ -27,5 +27,6 @@ int main() {
     inverter(str);
 
     printf("Resultado: %s\n", str);
+
     return 0;
 }
